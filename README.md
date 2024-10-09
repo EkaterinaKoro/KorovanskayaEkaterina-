@@ -1,7 +1,7 @@
 ## Я Корованская Екатерина, заканчиваю курс Нетологии, начинающий Тестировщик QA
 
 ### Вот что я умею:
-* https://github.com/EkaterinaKoro/seleniumб 
+* https://github.com/EkaterinaKoro/selenium
 * https://github.com/EkaterinaKoro/Allure 
 * https://github.com/EkaterinaKoro/SQL
 * https://github.com/EkaterinaKoro/Postman
