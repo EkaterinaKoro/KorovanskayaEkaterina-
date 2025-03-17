@@ -1,6 +1,7 @@
 ## Меня зовут Екатерина, и я с успехом завершила курс в Нетологии по профессии «Тестировщик QA»
 
 ### Вот что я умею:
+* https://github.com/EkaterinaKoro/Qa-Diploma
 * https://github.com/EkaterinaKoro/selenium
 * https://github.com/EkaterinaKoro/Allure 
 * https://github.com/EkaterinaKoro/SQL
@@ -12,6 +13,7 @@
 
 
 ### The certificates|Сертификаты:
+https://cloud.mail.ru/public/oyiU/fsM73YmCU
  
 
 
