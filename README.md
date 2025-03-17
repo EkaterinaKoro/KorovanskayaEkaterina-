@@ -1,4 +1,4 @@
-## Я Корованская Екатерина, заканчивала курс Нетологии по специальности Тестировщик QA
+## Меня зовут Екатерина, и я с успехом завершила курс в Нетологии по профессии «Тестировщик QA»
 
 ### Вот что я умею:
 * https://github.com/EkaterinaKoro/selenium
@@ -12,7 +12,7 @@
 
 
 ### The certificates|Сертификаты:
-+ https://github.com/EkaterinaKoro/certificates/blob/main/README.md
+ 
 
 
 
