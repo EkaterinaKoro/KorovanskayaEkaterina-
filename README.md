@@ -13,7 +13,12 @@
 
 
 ### The certificates|Сертификаты:
-https://cloud.mail.ru/public/oyiU/fsM73YmCU
+* https://cloud.mail.ru/public/wP2D/iv3EL611p
+* https://cloud.mail.ru/public/oyiU/fsM73YmCU
+* https://cloud.mail.ru/public/LcC4/4tn5VHWaa
+* https://cloud.mail.ru/public/K7Q8/Gd938AaKY
+* https://cloud.mail.ru/public/BtD9/7q6kAwD5W
+* https://cloud.mail.ru/public/6nfc/caVsoogag
  
 
 
